@@ -2,8 +2,8 @@
 
 Hi All! Welcome to the Read Me! (ˊᵕˋ)♡.°⑅
 
-🧠 My project: Explanation Explorer
-A visual playground for building and analyzing explanations using reusable blocks of reasoning. I wanted people to be able to compare explanation strategies across topics, visualize answer structures, and play around with generate natural language explanations with the reasoning blocks to think about how questions also shape answers. I've always been interested in HCI and may extend this to comparing human and AI reasoning on my own time after this class.
+🧠 This project is
+a visual playground I made for building and analyzing explanations using reusable blocks of reasoning. I wanted people to be able to compare explanation strategies across topics, visualize answer structures, and play around with generate natural language explanations with the reasoning blocks to think about how questions also shape answers. I've always been interested in HCI and may extend this to comparing human and AI reasoning on my own time after this class.
 
 ✨ Some features:
 
