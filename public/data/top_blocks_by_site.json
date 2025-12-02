@@ -1,0 +1,254 @@
+[
+  {
+    "site": "math",
+    "block_type": "Procedure",
+    "count": 51,
+    "percent_of_site_total": 10.874200426439232,
+    "avg_position": 0.3588939927175221
+  },
+  {
+    "site": "math",
+    "block_type": "Claim",
+    "count": 58,
+    "percent_of_site_total": 12.366737739872068,
+    "avg_position": 0.38411927384383876
+  },
+  {
+    "site": "math",
+    "block_type": "Elaboration",
+    "count": 78,
+    "percent_of_site_total": 16.631130063965884,
+    "avg_position": 0.5711434404992394
+  },
+  {
+    "site": "philosophy",
+    "block_type": "Claim",
+    "count": 95,
+    "percent_of_site_total": 14.660493827160495,
+    "avg_position": 0.3464098616942202
+  },
+  {
+    "site": "philosophy",
+    "block_type": "Example",
+    "count": 62,
+    "percent_of_site_total": 9.5679012345679,
+    "avg_position": 0.4072479688724221
+  },
+  {
+    "site": "philosophy",
+    "block_type": "Elaboration",
+    "count": 149,
+    "percent_of_site_total": 22.993827160493826,
+    "avg_position": 0.5150784677368553
+  },
+  {
+    "site": "ai",
+    "block_type": "Context",
+    "count": 57,
+    "percent_of_site_total": 9.313725490196079,
+    "avg_position": 0.21102226490038126
+  },
+  {
+    "site": "ai",
+    "block_type": "Example",
+    "count": 71,
+    "percent_of_site_total": 11.601307189542483,
+    "avg_position": 0.4886539002550862
+  },
+  {
+    "site": "ai",
+    "block_type": "Elaboration",
+    "count": 104,
+    "percent_of_site_total": 16.99346405228758,
+    "avg_position": 0.4965842931809529
+  },
+  {
+    "site": "physics",
+    "block_type": "Example",
+    "count": 77,
+    "percent_of_site_total": 9.101654846335698,
+    "avg_position": 0.4371467413409704
+  },
+  {
+    "site": "physics",
+    "block_type": "Elaboration",
+    "count": 168,
+    "percent_of_site_total": 19.858156028368796,
+    "avg_position": 0.536807193242363
+  },
+  {
+    "site": "physics",
+    "block_type": "Implication",
+    "count": 91,
+    "percent_of_site_total": 10.756501182033098,
+    "avg_position": 0.5675454209274964
+  },
+  {
+    "site": "christianity",
+    "block_type": "Context",
+    "count": 68,
+    "percent_of_site_total": 10.879999999999999,
+    "avg_position": 0.10276386195503842
+  },
+  {
+    "site": "christianity",
+    "block_type": "Claim",
+    "count": 60,
+    "percent_of_site_total": 9.6,
+    "avg_position": 0.3714962463651722
+  },
+  {
+    "site": "christianity",
+    "block_type": "Elaboration",
+    "count": 131,
+    "percent_of_site_total": 20.96,
+    "avg_position": 0.5131310603953662
+  },
+  {
+    "site": "linguistics",
+    "block_type": "Claim",
+    "count": 49,
+    "percent_of_site_total": 8.347529812606473,
+    "avg_position": 0.36471412881187315
+  },
+  {
+    "site": "linguistics",
+    "block_type": "Example",
+    "count": 106,
+    "percent_of_site_total": 18.05792163543441,
+    "avg_position": 0.45027272705346827
+  },
+  {
+    "site": "linguistics",
+    "block_type": "Elaboration",
+    "count": 97,
+    "percent_of_site_total": 16.524701873935264,
+    "avg_position": 0.5274427801354009
+  },
+  {
+    "site": "fitness",
+    "block_type": "Claim",
+    "count": 79,
+    "percent_of_site_total": 9.645909645909647,
+    "avg_position": 0.36556382167770646
+  },
+  {
+    "site": "fitness",
+    "block_type": "Procedure",
+    "count": 138,
+    "percent_of_site_total": 16.84981684981685,
+    "avg_position": 0.48092490707600094
+  },
+  {
+    "site": "fitness",
+    "block_type": "Elaboration",
+    "count": 124,
+    "percent_of_site_total": 15.14041514041514,
+    "avg_position": 0.5106321155941722
+  },
+  {
+    "site": "law",
+    "block_type": "Claim",
+    "count": 105,
+    "percent_of_site_total": 14.383561643835616,
+    "avg_position": 0.3379393983905262
+  },
+  {
+    "site": "law",
+    "block_type": "Implication",
+    "count": 81,
+    "percent_of_site_total": 11.095890410958905,
+    "avg_position": 0.5276203418990943
+  },
+  {
+    "site": "law",
+    "block_type": "Elaboration",
+    "count": 81,
+    "percent_of_site_total": 11.095890410958905,
+    "avg_position": 0.5659170715213601
+  },
+  {
+    "site": "history",
+    "block_type": "Context",
+    "count": 107,
+    "percent_of_site_total": 11.334745762711865,
+    "avg_position": 0.19533521842424945
+  },
+  {
+    "site": "history",
+    "block_type": "Example",
+    "count": 101,
+    "percent_of_site_total": 10.699152542372882,
+    "avg_position": 0.4534564037426082
+  },
+  {
+    "site": "history",
+    "block_type": "Elaboration",
+    "count": 219,
+    "percent_of_site_total": 23.19915254237288,
+    "avg_position": 0.5095191012643572
+  },
+  {
+    "site": "graphicdesign",
+    "block_type": "Procedure",
+    "count": 139,
+    "percent_of_site_total": 26.62835249042146,
+    "avg_position": 0.37954119222104826
+  },
+  {
+    "site": "graphicdesign",
+    "block_type": "Example",
+    "count": 48,
+    "percent_of_site_total": 9.195402298850574,
+    "avg_position": 0.42501315235690246
+  },
+  {
+    "site": "graphicdesign",
+    "block_type": "Elaboration",
+    "count": 52,
+    "percent_of_site_total": 9.961685823754788,
+    "avg_position": 0.5420465485369332
+  },
+  {
+    "site": "cooking",
+    "block_type": "Claim",
+    "count": 46,
+    "percent_of_site_total": 8.0,
+    "avg_position": 0.3697683355292052
+  },
+  {
+    "site": "cooking",
+    "block_type": "Procedure",
+    "count": 105,
+    "percent_of_site_total": 18.26086956521739,
+    "avg_position": 0.4259163734459301
+  },
+  {
+    "site": "cooking",
+    "block_type": "Elaboration",
+    "count": 64,
+    "percent_of_site_total": 11.130434782608695,
+    "avg_position": 0.5477142678920698
+  },
+  {
+    "site": "psychology",
+    "block_type": "Claim",
+    "count": 65,
+    "percent_of_site_total": 10.673234811165845,
+    "avg_position": 0.354362547140926
+  },
+  {
+    "site": "psychology",
+    "block_type": "Elaboration",
+    "count": 78,
+    "percent_of_site_total": 12.807881773399016,
+    "avg_position": 0.5130125208929556
+  },
+  {
+    "site": "psychology",
+    "block_type": "Citation",
+    "count": 80,
+    "percent_of_site_total": 13.136288998357964,
+    "avg_position": 0.5634710541571952
+  }
+]
