@@ -1,5 +1,4 @@
-# 4.033-Final
-Final Project!
+# Explanation Playground
 
 Hi All! Welcome to the Read Me! (ˊᵕˋ)♡.°⑅
 
